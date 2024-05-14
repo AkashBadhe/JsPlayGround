@@ -1,0 +1,7 @@
+{
+    "server": {
+      "baseDir": "./vanilla-js"
+    },
+    "port": 8080,
+    "files": ["./**/*"]
+  }
